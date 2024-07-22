@@ -14,7 +14,7 @@ GLFW binaries are included here.
 
 ## Get started
 
-To run the example, simply execute make run in your terminal. 
+To run the example, simply execute `make run` in your terminal. 
 
 You should see a window displaying a scene where the color of each vertex depends on its position
 
